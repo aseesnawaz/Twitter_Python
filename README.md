@@ -1,0 +1,3 @@
+This simple program is written using Python, Javascript, HTML and Vega. 
+
+It lets one gather twitter feeds for 100000 seconds and then graph the data (chart.html)...
